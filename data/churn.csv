@@ -1,0 +1,50 @@
+churn_id,customer_id,churn_date,plan,reason
+CHN0001,CUST0001,2023-10-17,Starter,Switched to competitor
+CHN0002,CUST0004,2023-08-10,Starter,Missing features
+CHN0003,CUST0017,2023-07-26,Growth,Poor support
+CHN0004,CUST0019,2023-08-26,Growth,Switched to competitor
+CHN0005,CUST0028,2023-06-04,Starter,Poor support
+CHN0006,CUST0033,2023-10-10,Growth,Poor support
+CHN0007,CUST0035,2023-12-29,Growth,Switched to competitor
+CHN0008,CUST0036,2023-10-27,Starter,Missing features
+CHN0009,CUST0037,2023-12-31,Starter,Switched to competitor
+CHN0010,CUST0039,2023-12-31,Growth,Missing features
+CHN0011,CUST0040,2023-12-31,Enterprise,Poor support
+CHN0012,CUST0044,2023-12-09,Starter,Missing features
+CHN0013,CUST0062,2023-05-17,Starter,Business closed
+CHN0014,CUST0063,2023-12-31,Starter,Switched to competitor
+CHN0015,CUST0065,2023-12-31,Starter,Switched to competitor
+CHN0016,CUST0066,2023-04-11,Growth,Too expensive
+CHN0017,CUST0068,2023-06-20,Growth,Poor support
+CHN0018,CUST0071,2023-09-07,Starter,Poor support
+CHN0019,CUST0076,2023-12-03,Starter,Missing features
+CHN0020,CUST0078,2023-04-17,Enterprise,Business closed
+CHN0021,CUST0084,2023-10-27,Starter,Poor support
+CHN0022,CUST0086,2023-05-31,Growth,Business closed
+CHN0023,CUST0087,2023-12-31,Starter,Too expensive
+CHN0024,CUST0098,2023-09-27,Enterprise,Switched to competitor
+CHN0025,CUST0104,2023-12-31,Starter,Business closed
+CHN0026,CUST0107,2023-12-31,Growth,Poor support
+CHN0027,CUST0115,2023-12-14,Growth,Switched to competitor
+CHN0028,CUST0117,2023-12-18,Growth,Business closed
+CHN0029,CUST0124,2023-06-05,Growth,Business closed
+CHN0030,CUST0129,2023-09-28,Starter,Missing features
+CHN0031,CUST0138,2023-06-03,Starter,Switched to competitor
+CHN0032,CUST0141,2023-12-31,Starter,Business closed
+CHN0033,CUST0153,2023-04-30,Growth,Missing features
+CHN0034,CUST0155,2023-10-04,Starter,Poor support
+CHN0035,CUST0157,2023-10-20,Growth,Business closed
+CHN0036,CUST0162,2023-12-31,Enterprise,Missing features
+CHN0037,CUST0163,2023-12-31,Growth,Missing features
+CHN0038,CUST0164,2023-12-31,Starter,Switched to competitor
+CHN0039,CUST0167,2023-02-20,Starter,Missing features
+CHN0040,CUST0168,2023-12-31,Starter,Business closed
+CHN0041,CUST0171,2023-09-18,Growth,Too expensive
+CHN0042,CUST0175,2023-12-31,Growth,Poor support
+CHN0043,CUST0176,2023-12-31,Starter,Business closed
+CHN0044,CUST0179,2023-09-20,Growth,Business closed
+CHN0045,CUST0181,2023-12-30,Starter,Poor support
+CHN0046,CUST0184,2023-09-11,Growth,Poor support
+CHN0047,CUST0191,2023-09-18,Growth,Missing features
+CHN0048,CUST0198,2023-10-14,Starter,Business closed
+CHN0049,CUST0200,2023-05-02,Enterprise,Missing features

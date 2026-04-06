@@ -1,0 +1,201 @@
+customer_id,company_name,plan,country,industry,signup_date,mrr
+CUST0001,Company_1,Starter,Canada,Healthcare,2023-02-27,49
+CUST0002,Company_2,Starter,United States,Real Estate,2023-04-25,49
+CUST0003,Company_3,Starter,Australia,Fintech,2023-10-07,49
+CUST0004,Company_4,Starter,United Kingdom,EdTech,2023-01-16,49
+CUST0005,Company_5,Growth,Australia,Healthcare,2023-01-14,149
+CUST0006,Company_6,Growth,United States,Healthcare,2023-08-18,149
+CUST0007,Company_7,Starter,United Kingdom,Healthcare,2023-08-05,49
+CUST0008,Company_8,Starter,Australia,Fintech,2023-06-22,49
+CUST0009,Company_9,Growth,Canada,Fintech,2023-07-03,149
+CUST0010,Company_10,Growth,Australia,Fintech,2023-08-24,149
+CUST0011,Company_11,Starter,Canada,EdTech,2023-10-10,49
+CUST0012,Company_12,Growth,United States,Real Estate,2023-04-09,149
+CUST0013,Company_13,Growth,United States,Healthcare,2023-04-27,149
+CUST0014,Company_14,Starter,Australia,Real Estate,2023-02-21,49
+CUST0015,Company_15,Starter,Canada,Healthcare,2023-07-06,49
+CUST0016,Company_16,Growth,United States,EdTech,2023-05-17,149
+CUST0017,Company_17,Growth,United Kingdom,Healthcare,2023-03-29,149
+CUST0018,Company_18,Starter,United Kingdom,Real Estate,2023-08-25,49
+CUST0019,Company_19,Growth,United States,Healthcare,2023-06-16,149
+CUST0020,Company_20,Growth,Australia,E-commerce,2023-01-17,149
+CUST0021,Company_21,Starter,Canada,Healthcare,2023-02-03,49
+CUST0022,Company_22,Starter,Australia,Healthcare,2023-09-13,49
+CUST0023,Company_23,Starter,Canada,Real Estate,2023-05-16,49
+CUST0024,Company_24,Starter,Australia,E-commerce,2023-10-27,49
+CUST0025,Company_25,Enterprise,United Kingdom,EdTech,2023-04-23,499
+CUST0026,Company_26,Starter,United States,Fintech,2023-09-10,49
+CUST0027,Company_27,Growth,Australia,EdTech,2023-03-20,149
+CUST0028,Company_28,Starter,Australia,EdTech,2023-02-02,49
+CUST0029,Company_29,Enterprise,United States,Real Estate,2023-05-09,499
+CUST0030,Company_30,Growth,Canada,Real Estate,2023-02-28,149
+CUST0031,Company_31,Starter,Australia,Healthcare,2023-06-24,49
+CUST0032,Company_32,Starter,Canada,EdTech,2023-08-21,49
+CUST0033,Company_33,Growth,United States,Real Estate,2023-04-02,149
+CUST0034,Company_34,Growth,United Kingdom,Healthcare,2023-06-02,149
+CUST0035,Company_35,Growth,United States,EdTech,2023-07-11,149
+CUST0036,Company_36,Starter,United States,E-commerce,2023-06-15,49
+CUST0037,Company_37,Starter,United Kingdom,EdTech,2023-06-07,49
+CUST0038,Company_38,Starter,Australia,Fintech,2023-02-10,49
+CUST0039,Company_39,Growth,United Kingdom,Real Estate,2023-09-30,149
+CUST0040,Company_40,Enterprise,United Kingdom,E-commerce,2023-09-01,499
+CUST0041,Company_41,Enterprise,Australia,Healthcare,2023-09-28,499
+CUST0042,Company_42,Growth,United Kingdom,Real Estate,2023-10-04,149
+CUST0043,Company_43,Starter,Canada,Logistics,2023-06-09,49
+CUST0044,Company_44,Starter,United Kingdom,Healthcare,2023-09-22,49
+CUST0045,Company_45,Starter,United Kingdom,EdTech,2023-02-02,49
+CUST0046,Company_46,Starter,United States,Healthcare,2023-04-23,49
+CUST0047,Company_47,Enterprise,Canada,Fintech,2023-02-04,499
+CUST0048,Company_48,Starter,Australia,Healthcare,2023-09-21,49
+CUST0049,Company_49,Starter,Australia,Healthcare,2023-10-04,49
+CUST0050,Company_50,Growth,United Kingdom,Fintech,2023-08-31,149
+CUST0051,Company_51,Growth,Canada,Logistics,2023-02-19,149
+CUST0052,Company_52,Starter,United States,Real Estate,2023-07-30,49
+CUST0053,Company_53,Starter,Canada,Fintech,2023-02-20,49
+CUST0054,Company_54,Starter,Australia,Healthcare,2023-05-08,49
+CUST0055,Company_55,Starter,Australia,Healthcare,2023-08-05,49
+CUST0056,Company_56,Starter,United States,Fintech,2023-02-08,49
+CUST0057,Company_57,Growth,United States,Healthcare,2023-10-04,149
+CUST0058,Company_58,Starter,Australia,Healthcare,2023-03-27,49
+CUST0059,Company_59,Enterprise,United Kingdom,Logistics,2023-07-25,499
+CUST0060,Company_60,Enterprise,Canada,Logistics,2023-01-02,499
+CUST0061,Company_61,Starter,Australia,Healthcare,2023-05-27,49
+CUST0062,Company_62,Starter,United States,EdTech,2023-04-08,49
+CUST0063,Company_63,Starter,Canada,Fintech,2023-10-05,49
+CUST0064,Company_64,Growth,United Kingdom,Fintech,2023-01-26,149
+CUST0065,Company_65,Starter,United Kingdom,Fintech,2023-09-18,49
+CUST0066,Company_66,Growth,United Kingdom,Logistics,2023-02-04,149
+CUST0067,Company_67,Enterprise,United Kingdom,EdTech,2023-03-03,499
+CUST0068,Company_68,Growth,Australia,Real Estate,2023-01-21,149
+CUST0069,Company_69,Growth,Canada,E-commerce,2023-10-26,149
+CUST0070,Company_70,Growth,Canada,Healthcare,2023-04-15,149
+CUST0071,Company_71,Starter,Canada,Logistics,2023-05-16,49
+CUST0072,Company_72,Enterprise,United States,Fintech,2023-06-11,499
+CUST0073,Company_73,Growth,United States,Fintech,2023-08-23,149
+CUST0074,Company_74,Starter,Canada,Healthcare,2023-10-03,49
+CUST0075,Company_75,Enterprise,United Kingdom,E-commerce,2023-06-28,499
+CUST0076,Company_76,Starter,Canada,EdTech,2023-05-26,49
+CUST0077,Company_77,Starter,Canada,Real Estate,2023-09-28,49
+CUST0078,Company_78,Enterprise,United Kingdom,E-commerce,2023-02-23,499
+CUST0079,Company_79,Enterprise,United Kingdom,E-commerce,2023-03-01,499
+CUST0080,Company_80,Growth,Canada,Healthcare,2023-05-25,149
+CUST0081,Company_81,Growth,Canada,Fintech,2023-05-16,149
+CUST0082,Company_82,Growth,Canada,Fintech,2023-02-17,149
+CUST0083,Company_83,Starter,United Kingdom,Real Estate,2023-01-02,49
+CUST0084,Company_84,Starter,Australia,EdTech,2023-05-15,49
+CUST0085,Company_85,Growth,United States,Fintech,2023-08-07,149
+CUST0086,Company_86,Growth,Canada,EdTech,2023-03-18,149
+CUST0087,Company_87,Starter,United Kingdom,Fintech,2023-10-10,49
+CUST0088,Company_88,Starter,United States,E-commerce,2023-06-07,49
+CUST0089,Company_89,Growth,United States,E-commerce,2023-04-18,149
+CUST0090,Company_90,Enterprise,Australia,EdTech,2023-10-14,499
+CUST0091,Company_91,Enterprise,United Kingdom,Healthcare,2023-03-21,499
+CUST0092,Company_92,Enterprise,United States,Healthcare,2023-04-01,499
+CUST0093,Company_93,Growth,Australia,Real Estate,2023-06-20,149
+CUST0094,Company_94,Starter,United States,Logistics,2023-05-08,49
+CUST0095,Company_95,Enterprise,United Kingdom,Healthcare,2023-01-20,499
+CUST0096,Company_96,Starter,United Kingdom,Healthcare,2023-08-24,49
+CUST0097,Company_97,Growth,Australia,E-commerce,2023-01-13,149
+CUST0098,Company_98,Enterprise,Canada,E-commerce,2023-05-23,499
+CUST0099,Company_99,Starter,Canada,Fintech,2023-09-18,49
+CUST0100,Company_100,Enterprise,Canada,Healthcare,2023-03-01,499
+CUST0101,Company_101,Enterprise,Canada,Fintech,2023-10-25,499
+CUST0102,Company_102,Growth,Canada,Real Estate,2023-02-25,149
+CUST0103,Company_103,Starter,United States,Logistics,2023-06-10,49
+CUST0104,Company_104,Starter,United States,Real Estate,2023-10-23,49
+CUST0105,Company_105,Starter,United Kingdom,E-commerce,2023-08-12,49
+CUST0106,Company_106,Starter,Canada,EdTech,2023-08-09,49
+CUST0107,Company_107,Growth,United States,Real Estate,2023-06-10,149
+CUST0108,Company_108,Growth,Australia,E-commerce,2023-06-03,149
+CUST0109,Company_109,Growth,United Kingdom,Healthcare,2023-07-26,149
+CUST0110,Company_110,Growth,Australia,Real Estate,2023-08-04,149
+CUST0111,Company_111,Growth,Canada,Logistics,2023-03-31,149
+CUST0112,Company_112,Growth,Canada,E-commerce,2023-10-08,149
+CUST0113,Company_113,Starter,Canada,Logistics,2023-04-18,49
+CUST0114,Company_114,Starter,United Kingdom,EdTech,2023-08-15,49
+CUST0115,Company_115,Growth,United Kingdom,Real Estate,2023-08-31,149
+CUST0116,Company_116,Starter,Canada,Fintech,2023-02-13,49
+CUST0117,Company_117,Growth,United Kingdom,Healthcare,2023-05-01,149
+CUST0118,Company_118,Starter,United Kingdom,Logistics,2023-03-17,49
+CUST0119,Company_119,Starter,United Kingdom,Real Estate,2023-02-07,49
+CUST0120,Company_120,Starter,United Kingdom,Healthcare,2023-07-16,49
+CUST0121,Company_121,Enterprise,United States,Logistics,2023-01-03,499
+CUST0122,Company_122,Starter,Australia,Fintech,2023-04-23,49
+CUST0123,Company_123,Starter,United States,Logistics,2023-10-13,49
+CUST0124,Company_124,Growth,Canada,Logistics,2023-03-10,149
+CUST0125,Company_125,Starter,Australia,Healthcare,2023-09-16,49
+CUST0126,Company_126,Starter,United Kingdom,Real Estate,2023-09-01,49
+CUST0127,Company_127,Growth,Australia,Real Estate,2023-05-22,149
+CUST0128,Company_128,Starter,United States,Real Estate,2023-05-03,49
+CUST0129,Company_129,Starter,Canada,E-commerce,2023-05-27,49
+CUST0130,Company_130,Starter,United Kingdom,Healthcare,2023-10-04,49
+CUST0131,Company_131,Growth,United Kingdom,Fintech,2023-07-16,149
+CUST0132,Company_132,Starter,Australia,Logistics,2023-08-01,49
+CUST0133,Company_133,Starter,Australia,Logistics,2023-02-01,49
+CUST0134,Company_134,Enterprise,United States,EdTech,2023-10-27,499
+CUST0135,Company_135,Starter,Canada,E-commerce,2023-07-14,49
+CUST0136,Company_136,Enterprise,Australia,EdTech,2023-07-19,499
+CUST0137,Company_137,Growth,United Kingdom,Logistics,2023-10-07,149
+CUST0138,Company_138,Starter,Australia,Fintech,2023-04-23,49
+CUST0139,Company_139,Starter,Australia,Real Estate,2023-07-19,49
+CUST0140,Company_140,Growth,United Kingdom,EdTech,2023-03-26,149
+CUST0141,Company_141,Starter,Australia,EdTech,2023-10-01,49
+CUST0142,Company_142,Growth,United States,Real Estate,2023-10-16,149
+CUST0143,Company_143,Starter,Australia,Healthcare,2023-08-08,49
+CUST0144,Company_144,Starter,Canada,Healthcare,2023-01-26,49
+CUST0145,Company_145,Starter,Australia,E-commerce,2023-08-21,49
+CUST0146,Company_146,Starter,United States,Logistics,2023-08-04,49
+CUST0147,Company_147,Growth,United States,E-commerce,2023-01-10,149
+CUST0148,Company_148,Growth,United States,Fintech,2023-04-25,149
+CUST0149,Company_149,Starter,United States,EdTech,2023-05-07,49
+CUST0150,Company_150,Starter,Australia,Real Estate,2023-03-20,49
+CUST0151,Company_151,Growth,United Kingdom,Logistics,2023-02-28,149
+CUST0152,Company_152,Growth,United Kingdom,EdTech,2023-05-12,149
+CUST0153,Company_153,Growth,United Kingdom,E-commerce,2023-02-28,149
+CUST0154,Company_154,Growth,Canada,EdTech,2023-02-25,149
+CUST0155,Company_155,Starter,United Kingdom,Fintech,2023-07-12,49
+CUST0156,Company_156,Starter,Canada,Real Estate,2023-05-05,49
+CUST0157,Company_157,Growth,United States,E-commerce,2023-03-03,149
+CUST0158,Company_158,Starter,Canada,Fintech,2023-09-30,49
+CUST0159,Company_159,Growth,United States,Logistics,2023-09-17,149
+CUST0160,Company_160,Starter,Canada,Real Estate,2023-09-08,49
+CUST0161,Company_161,Growth,Australia,Healthcare,2023-08-24,149
+CUST0162,Company_162,Enterprise,Canada,EdTech,2023-09-25,499
+CUST0163,Company_163,Growth,Australia,Logistics,2023-10-03,149
+CUST0164,Company_164,Starter,United Kingdom,Fintech,2023-05-18,49
+CUST0165,Company_165,Enterprise,United Kingdom,Logistics,2023-05-23,499
+CUST0166,Company_166,Growth,Australia,E-commerce,2023-10-19,149
+CUST0167,Company_167,Starter,Canada,Healthcare,2023-01-15,49
+CUST0168,Company_168,Starter,Canada,E-commerce,2023-09-07,49
+CUST0169,Company_169,Enterprise,Canada,EdTech,2023-05-24,499
+CUST0170,Company_170,Growth,United Kingdom,Fintech,2023-01-06,149
+CUST0171,Company_171,Growth,Australia,EdTech,2023-05-04,149
+CUST0172,Company_172,Growth,Australia,Logistics,2023-05-04,149
+CUST0173,Company_173,Starter,United Kingdom,Logistics,2023-01-09,49
+CUST0174,Company_174,Starter,Canada,Logistics,2023-05-05,49
+CUST0175,Company_175,Growth,Australia,Real Estate,2023-10-11,149
+CUST0176,Company_176,Starter,Australia,E-commerce,2023-10-09,49
+CUST0177,Company_177,Starter,United States,Real Estate,2023-06-06,49
+CUST0178,Company_178,Starter,United Kingdom,Healthcare,2023-04-09,49
+CUST0179,Company_179,Growth,Canada,Real Estate,2023-04-21,149
+CUST0180,Company_180,Growth,United States,Healthcare,2023-09-26,149
+CUST0181,Company_181,Starter,United Kingdom,E-commerce,2023-06-01,49
+CUST0182,Company_182,Growth,United Kingdom,E-commerce,2023-01-08,149
+CUST0183,Company_183,Enterprise,Canada,Real Estate,2023-01-24,499
+CUST0184,Company_184,Growth,Australia,Fintech,2023-03-06,149
+CUST0185,Company_185,Growth,Australia,Logistics,2023-01-07,149
+CUST0186,Company_186,Starter,United States,E-commerce,2023-08-14,49
+CUST0187,Company_187,Starter,United States,Logistics,2023-09-02,49
+CUST0188,Company_188,Starter,United States,Healthcare,2023-09-09,49
+CUST0189,Company_189,Growth,Canada,Fintech,2023-03-18,149
+CUST0190,Company_190,Starter,Australia,EdTech,2023-05-08,49
+CUST0191,Company_191,Growth,Australia,Logistics,2023-04-26,149
+CUST0192,Company_192,Starter,Australia,E-commerce,2023-08-15,49
+CUST0193,Company_193,Growth,United States,Healthcare,2023-10-19,149
+CUST0194,Company_194,Starter,United States,Healthcare,2023-04-19,49
+CUST0195,Company_195,Starter,United States,Healthcare,2023-05-03,49
+CUST0196,Company_196,Starter,Australia,E-commerce,2023-01-02,49
+CUST0197,Company_197,Starter,Canada,Real Estate,2023-01-17,49
+CUST0198,Company_198,Starter,United Kingdom,E-commerce,2023-08-21,49
+CUST0199,Company_199,Starter,United Kingdom,Real Estate,2023-04-12,49
+CUST0200,Company_200,Enterprise,United Kingdom,Fintech,2023-03-18,499
