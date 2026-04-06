@@ -1,2 +1,3 @@
 # novasaas-revenue-analysis
-SaaS revenue analysis tracking subscriptions, churn, and revenue growth to evaluate business performance and retention.
+Revenue, churn, and growth analysis for a fictional B2B SaaS platform.
+Built with SQL Server 2019 and visualised in Power BI.
